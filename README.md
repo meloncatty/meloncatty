@@ -1,4 +1,4 @@
-🌞 Hello! I'm Krista Handel, an independent front-end web developer. My areas of focus within web development are accessibility, responsive design, and performance. My main tools are JavaScript, HTML, and CSS.
+🌞 Hello! I'm Krista Handel, an independent front-end web developer. My areas of focus within web development are accessibility, responsive design, and performance. My main tools are JavaScript, HTML, and CSS. I've been working on adding TypeScript to my developer toolbox.
 
 🌱 I’m currently sharpening my CSS skills and building upon my web performance knowledge. I am patiently waiting to hear back from the Trusted Tester team so that I can become certified.
 
